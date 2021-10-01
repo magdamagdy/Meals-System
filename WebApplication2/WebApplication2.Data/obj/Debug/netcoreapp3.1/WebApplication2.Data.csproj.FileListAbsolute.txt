@@ -1,0 +1,52 @@
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.AssemblyReference.cache
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfoInputs.cache
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfo.cs
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.CoreCompileInputs.cache
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.deps.json
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.json
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.dev.json
+D:\eva intern\Assignments\assign 7 unit of work +auth+proj\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.genruntimeconfig.cache
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.deps.json
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.json
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.dev.json
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.AssemblyReference.cache
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfoInputs.cache
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfo.cs
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.CoreCompileInputs.cache
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\Assignments\assign 8\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.genruntimeconfig.cache
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.deps.json
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.json
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.dev.json
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.AssemblyReference.cache
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfoInputs.cache
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfo.cs
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.CoreCompileInputs.cache
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\final proj\login api trial\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.genruntimeconfig.cache
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.deps.json
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.json
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.runtimeconfig.dev.json
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\bin\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.AssemblyReference.cache
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfoInputs.cache
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.AssemblyInfo.cs
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.csproj.CoreCompileInputs.cache
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.dll
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.pdb
+D:\eva intern\final proj\login api trial json\WebApplication2\WebApplication2.Data\obj\Debug\netcoreapp3.1\WebApplication2.Data.genruntimeconfig.cache
